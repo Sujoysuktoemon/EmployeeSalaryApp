@@ -1,0 +1,9 @@
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\bin\Debug\EmploySalaryApp.exe.config
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\bin\Debug\EmploySalaryApp.exe
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\bin\Debug\EmploySalaryApp.pdb
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\obj\Debug\EmploySalaryApp.csprojResolveAssemblyReference.cache
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\obj\Debug\EmploySalaryApp.Form1.resources
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\obj\Debug\EmploySalaryApp.Properties.Resources.resources
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\obj\Debug\EmploySalaryApp.csproj.GenerateResource.Cache
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\obj\Debug\EmploySalaryApp.exe
+B:\BASIS\all practice\EmploySalaryApp\EmploySalaryApp\obj\Debug\EmploySalaryApp.pdb
